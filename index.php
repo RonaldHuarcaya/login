@@ -10,8 +10,8 @@
 
 <form action="validar.php" method="post">
 	<h2>Formulario de Login</h2>
-	<input type="text" placeholder="&#128272; Usuario" name="usuario">
-	<input type="password" placeholder="&#128272; Contraseña" name="clave">
+	<input type="text" placeholder="Usuario" name="usuario">
+	<input type="password" placeholder="Contraseña" name="clave">
 	<input type="submit" value="ingresar">
 
 
